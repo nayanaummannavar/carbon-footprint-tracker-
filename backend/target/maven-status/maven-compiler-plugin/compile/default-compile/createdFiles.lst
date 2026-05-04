@@ -1,0 +1,6 @@
+com\example\carbontracker\repository\CarbonEntryRepository.class
+com\example\carbontracker\entity\CarbonEntry.class
+com\example\carbontracker\service\CarbonEntryService.class
+com\example\carbontracker\CarbonFootprintTrackerApplication.class
+com\example\carbontracker\entity\CarbonEntry$CarbonEntryBuilder.class
+com\example\carbontracker\controller\CarbonEntryController.class
